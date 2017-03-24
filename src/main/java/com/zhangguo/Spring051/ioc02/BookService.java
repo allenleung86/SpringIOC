@@ -3,7 +3,6 @@ package com.zhangguo.Spring051.ioc02;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 
 /**
  * 图书业务类

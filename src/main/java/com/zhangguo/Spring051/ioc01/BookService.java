@@ -11,7 +11,7 @@ public class BookService {
 	
 	public BookService() {
 		//容器
-		ApplicationContext ctx=new ClassPathXmlApplicationContext("IOCBeans01.xml");
+		ApplicationContext ctx=new ClassPathXmlApplicationContext("classpath:IOCBeans01.xml");
 		//从容器中获得id为bookdao的bean
 		bookDAO=(IBookDAO)ctx.getBean("bookdao");
 	}

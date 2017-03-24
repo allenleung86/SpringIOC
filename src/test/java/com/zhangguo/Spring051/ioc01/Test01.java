@@ -1,6 +1,6 @@
 package com.zhangguo.Spring051.ioc01;
- 
-public class Test { 
+
+public class Test01 {
 	@org.junit.Test
 	public void testStoreBook()
 	{

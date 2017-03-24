@@ -3,7 +3,7 @@ package com.zhangguo.Spring051.ioc02;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class Test {
+public class Test02 {
 	@org.junit.Test
 	public void testStoreBook()
 	{
